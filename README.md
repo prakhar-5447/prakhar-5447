@@ -19,7 +19,7 @@
 <h2 align="center">🔗 Connect With Me :</h2>
 <p align="center">
  <a href="https://www.linkedin.com/in/prakhar-sahu-4519b8206"><img alt="LNKEDIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://hashnode.com/@PrakharSahu/joinme"><img alt="HASHNODE" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+ <a href="https://hashnode.com/@PrakharSahu"><img alt="HASHNODE" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
   
 <p align="center">
