@@ -12,7 +12,7 @@
  <p align="center">
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </p>
 
 
@@ -27,6 +27,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrakharSahu02&show_icons=true&locale=en" alt="PrakharSahu02" />
 </p>
+ 
 <!---
 PrakharSahu/PrkharSahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
