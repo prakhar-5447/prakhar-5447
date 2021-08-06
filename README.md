@@ -1,4 +1,4 @@
-<hr width="900px"><hr6width="700px"><hr width="300px">
+<hr width="860px"><hr width="600px"><hr width="300px">
 
 <h1 align="center"> Hi 👋, I'm Prakhar Sahu </h1>
 <p align="center"><b>Programmer || Front-end Developer || Open Source Enthusiast<b></p>
@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrakharSahu02&show_icons=true&locale=en" alt="PrakharSahu02" />
 </p>
  
- <hr width="300px"><hr width="600px"><hr width="900px">
+ <hr width="300px"><hr width="600px"><hr width="860px">
  
 <!---
 PrakharSahu/PrkharSahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
