@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prakhar Sahu</h1>
-<p align="center"><b>Programmer || Front-end Developer || Open Source Enthusiast<b></p>
+<hr width="1100px"><hr width="700px"><hr width="300px">
 
-<h2 align="center">⚒️ Languages and Tools :</h2>
+<h1 align="center"> Hi 👋, I'm Prakhar Sahu </h1>
+<p align="center"><b>Programmer || Front-end Developer || Open Source Enthusiast<b></p>
+ 
+<h1 align="center"> ⚒️ Languages and Tools :</h1>
 <p align="center">
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
  <img alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,7 +18,7 @@
  </p>
 
 
-<h2 align="center">🔗 Connect With Me :</h2>
+<h2 align="center"> 🔗 Connect With Me :</h2>
 <p align="center">
  <a href="https://instagram.com/im_prakhar02"><img alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="https://twitter.com/PRAKHAR_2039"><img alt="TWITTER" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -27,6 +29,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrakharSahu02&show_icons=true&locale=en" alt="PrakharSahu02" />
 </p>
+ 
+ <hr width="300px"><hr width="700px"><hr width="1100px">
  
 <!---
 PrakharSahu/PrkharSahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
