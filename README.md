@@ -19,7 +19,7 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
  
 <div align="center">
  <img alt="NODE" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img alt="GIT" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />
+ <img alt="GIT" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=orange" />
  <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
  <img alt="REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -65,11 +65,22 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-5447&)">
  <img src="https://activity-graph.herokuapp.com/graph?username=prakhar-5447&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
- 
-![](https://visitcount.itsvg.in/api?id=prakhar-5447&icon=0&color=0)
 
+<h1 align="center">interest</h1>
+
+<p align="center">
+ I have intrest in Graphic Designing and love to design UI Designs for website and android apps. Checkout my designs
+ <a href="https://instagram.com/pixel8cloud">@pixel8cloud</a>.
+</p>
  
- 
+<div align="center" >
+ <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+ <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+ <img alt="ILLUSTRATOR" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+</div> 
+
+
+![](https://visitcount.itsvg.in/api?id=prakhar-5447&icon=0&color=0)
 <!---
 prakhar-5447/prakhar-5447 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
