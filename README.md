@@ -66,7 +66,7 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
  <img src="https://activity-graph.herokuapp.com/graph?username=prakhar-5447&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
 
-<h1 align="center">interest</h1>
+<h1 align="center">Interest</h1>
 
 <p align="center">
  I have intrest in Graphic Designing and love to design UI Designs for website and android apps. Checkout my designs
