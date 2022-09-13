@@ -15,6 +15,7 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
  
 <div align="center">
@@ -24,7 +25,7 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
  <img alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
  <img alt="REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img alt="TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
+ <img alt="FLUTTER" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 <div align="center">
@@ -70,13 +71,15 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
 
 <p align="center">
  I have interest in Graphic Designing and love to design UI Designs for website and android apps. Checkout my designs
- <a href="https://instagram.com/pixel8cloud">@pixel8cloud</a>.
+ <a href="https://instagram.com/pixel8cloud">@pixel8cloud</a>. and also my youtube channel <a href="https://www.youtube.com/channel/UCk7m7PkTw98rMmclV7zVruw">@pixel8cloud</a>
 </p>
  
 <div align="center" >
  <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
  <img alt="ILLUSTRATOR" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+ <img alt="YOUTUBE" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+
 </div> 
 
 
