@@ -64,7 +64,7 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
 </div> 
  <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-5447&)">
- <img src="https://activity-graph.herokuapp.com/graph?username=prakhar-5447&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prakhar-5447&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
 
 <h1 align="center">Interest</h1>
